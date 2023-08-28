@@ -5,8 +5,4 @@
 - :blossom: My favorite activites outside of coding include gardening, going to the beach, and playing drums.
 - :satellite: Let's connect & chat on [linkedin](https://www.linkedin.com/in/amanda-s-putney/)!
 
-<!---
-amandaputney/amandaputney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ![LeafBanner](https://github.com/amandaputney/amandaputney/assets/137220240/a5583598-fc35-4d32-988e-cad01b3f6df7)
