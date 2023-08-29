@@ -6,4 +6,5 @@
 - :two_hearts: I’m looking to collaborate on your passion projects!
 - :satellite: Let's make contact & chat on [linkedin](https://www.linkedin.com/in/amanda-s-putney/)!
 
-![LeafBanner](https://github.com/amandaputney/amandaputney/assets/137220240/a5583598-fc35-4d32-988e-cad01b3f6df7)
+
+![LeafBanner (2)](https://github.com/amandaputney/amandaputney/assets/137220240/1539fe1b-9462-47ac-858b-e9c27ab053d3)
