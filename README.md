@@ -6,7 +6,8 @@
 - :blossom: My favorite activites outside of coding include gardening, going to the beach, and playing drums.
 - :two_hearts: I’m looking to collaborate on your passion projects! 
 - :satellite: Let's make contact & chat on [linkedin](https://www.linkedin.com/in/amanda-s-putney/)
-- 📧 amandasueputney@gmail.com 
+- 📧 amandasueputney@gmail.com
+- - :two_hearts: Check out my portfolio [here](https://amandaputney.github.io/portfolio/) 
 
 ![bottom](https://github.com/amandaputney/amandaputney/assets/137220240/f3be87ce-03fc-4e77-96fd-48834df55fae)
 
